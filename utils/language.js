@@ -171,5 +171,24 @@ export default {
 			outOfSize:'La imagen excede el tamaño maximo:',
 			lowestPx:'La imagen es demasiado pequeño. Se espera por lo menos:'
 		}
+	},
+	ca: {
+		hint:'Selecciona o arrosega una imatge',
+		loading:'Pujant...',
+		noSupported:'El teu navegador no és compatible, siusplau fes servir IE10+ o d\'altres més recents',
+		success:'Pujat correctament',
+		fail:'S\'ha produït un error',
+		preview:'Vista prèvia',
+		btn:{
+			off:'Cancelar',
+			close:'Tancar',
+			back:'Enrrere',
+			save:'Guardar'
+		},
+		error:{
+			onlyImg:'Només imatges',
+			outOfSize:'La imatge supera el tamany màxim: ',
+			lowestPx:'La imatge és massa petita. S\'espera com a mínim: '
+		}
 	}
 };
